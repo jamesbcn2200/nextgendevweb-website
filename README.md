@@ -1,46 +1,32 @@
-# NextGenDevWeb (NGDW) Website Project
+# NextGenDevWeb Website
 
 ## Project Overview
-NextGenDevWeb is a modern web development agency specializing in:
-- Website Development
-- SaaS Solutions
-- AI Solutions
-- Digital Design
-- Hosting
-- Digital Marketing
-- Content Creation
+NextGenDevWeb is a modern web development agency website built with Next.js and Tailwind CSS.
 
-## Project Goals
-- Build a responsive, modern website
-- Showcase agency capabilities
-- Demonstrate technical expertise
-- Create an engaging user experience
+## Project Structure
+- Next.js frontend application
+- Tailwind CSS for styling
+- Responsive design
+- Interactive components
 
-## Key Brand Values
-1. Speed
-2. Innovation
-3. Scalability
-
-## Technology Stack
-- Frontend: React with Next.js
-- Hosting: Vercel
-- CMS: Strapi or Contentful
-- Backend: Node.js with Express
-
-## Development Roadmap
-1. Design Phase (4 weeks)
-2. Frontend Development (6 weeks)
-3. Backend Integration (4 weeks)
-4. Testing & Optimization (3 weeks)
-5. Launch (2 weeks)
-
-## Getting Started
+## Setup Instructions
 1. Clone the repository
-2. Install dependencies
-3. Review project documentation
+2. Install dependencies: `npm install`
+3. Run development server: `npm run dev`
+
+## Development Workflow
+- Main branch: Stable production code
+- Development branch: Active development
+- Feature branches: Specific feature implementation
+
+## Technologies
+- Next.js
+- React
+- Tailwind CSS
+- Lucide Icons
 
 ## Contributing
-Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
+Please read CONTRIBUTING.md for details on our code of conduct and the development process.
 
 ## License
-This project is licensed under the MIT License.
+MIT License
